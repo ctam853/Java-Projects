@@ -1,6 +1,3 @@
-//In order to help learn course concepts, I worked on the homework with Justin Hu,
-// discussed homework topics and issues with Justin Hu, and/or consulted related material that can be found at none.
-
 import javafx.application.Application;
 import javafx.stage.Stage;
 import javafx.scene.Scene;
